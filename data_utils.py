@@ -16,7 +16,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-DATA_PATH = "sample_data/ops_marketing_data.csv"
+DATA_PATH = "ops_marketing_data.csv"
 
 
 @st.cache_data(show_spinner=False)
